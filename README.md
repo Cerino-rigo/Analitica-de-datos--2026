@@ -1,2 +1,3 @@
-# Ciencia-de-datos---2026
-Este es un repositorio que se usará para crear ejemplos del curso, subir archivos para la resolución de actividades y tareas de cada tema
+# 📊 Curso de Analítica de Datos 2026
+
+Repositorio de trabajo para la clase de **Analítica de Datos**. Aquí se almacenan ejemplos vistos en clase, archivos de actividades y tareas organizados por tema.
