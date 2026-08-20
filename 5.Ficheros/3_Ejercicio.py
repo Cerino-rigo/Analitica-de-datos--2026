@@ -8,7 +8,7 @@ with open(ruta, mode="r", encoding="utf-8") as fichero:
     #print(datos)
 
     #¿Cómo podemos separar "Laptop" y "15000"?
-    #print(datos[0])
+    
 
    
 if fichero.closed: 
